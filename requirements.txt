@@ -1,6 +1,6 @@
 streamlit
 yfinance
 pycoingecko
-pandas-ta
-plotly
 pandas
+plotly
+pandas_ta
